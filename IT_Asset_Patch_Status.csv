@@ -1,0 +1,251 @@
+Device Name,OS Version,Last Patch Date,Status,Department,Location
+DEV-001,Windows 10,2025-06-13,At Risk,Marketing,Calgary
+DEV-002,Windows 10,2025-07-01,Compliant,Legal,Calgary
+DEV-003,Windows 11,2025-05-24,At Risk,HR,Vancouver
+DEV-004,Windows Server 2019,2025-04-24,Unreachable,IT,Surrey
+DEV-005,Windows Server 2022,2025-07-08,Compliant,Finance,Calgary
+DEV-006,Windows Server 2022,2025-05-13,Unreachable,Finance,Vancouver
+DEV-007,Windows Server 2019,2025-04-19,Unreachable,Finance,Toronto
+DEV-008,Windows Server 2022,2025-06-01,At Risk,Operations,Toronto
+DEV-009,Windows 11,2025-07-08,Compliant,IT,Calgary
+DEV-010,Windows 10,2025-05-27,At Risk,IT,Vancouver
+DEV-011,Windows Server 2019,2025-05-02,Unreachable,Operations,Ottawa
+DEV-012,Windows 10,2025-06-19,Compliant,Operations,Vancouver
+DEV-013,Windows Server 2019,2025-05-28,At Risk,Finance,Calgary
+DEV-014,Windows Server 2022,2025-07-12,Compliant,Marketing,Calgary
+DEV-015,Windows 11,2025-04-30,Unreachable,Legal,Calgary
+DEV-016,Windows Server 2022,2025-05-11,Unreachable,IT,Surrey
+DEV-017,Windows 10,2025-04-24,Unreachable,IT,Toronto
+DEV-018,Windows 11,2025-07-01,Compliant,Marketing,Ottawa
+DEV-019,Windows Server 2022,2025-04-20,Unreachable,Marketing,Toronto
+DEV-020,Windows Server 2019,2025-04-25,Unreachable,IT,Vancouver
+DEV-021,Windows 10,2025-05-15,Unreachable,Operations,Ottawa
+DEV-022,Windows Server 2022,2025-06-22,Compliant,Legal,Vancouver
+DEV-023,Windows Server 2019,2025-05-25,At Risk,HR,Vancouver
+DEV-024,Windows Server 2019,2025-05-06,Unreachable,HR,Vancouver
+DEV-025,Windows Server 2022,2025-06-17,Compliant,IT,Vancouver
+DEV-026,Windows Server 2022,2025-05-28,At Risk,HR,Ottawa
+DEV-027,Windows 10,2025-07-17,Compliant,Operations,Calgary
+DEV-028,Windows Server 2019,2025-04-22,Unreachable,Marketing,Calgary
+DEV-029,Windows Server 2019,2025-07-04,Compliant,Legal,Ottawa
+DEV-030,Windows 10,2025-07-08,Compliant,Legal,Ottawa
+DEV-031,Windows 10,2025-07-11,Compliant,IT,Calgary
+DEV-032,Windows Server 2019,2025-05-30,At Risk,HR,Ottawa
+DEV-033,Windows 10,2025-06-29,Compliant,Marketing,Vancouver
+DEV-034,Windows 11,2025-04-21,Unreachable,Legal,Calgary
+DEV-035,Windows 11,2025-05-08,Unreachable,Marketing,Vancouver
+DEV-036,Windows 10,2025-05-18,At Risk,HR,Ottawa
+DEV-037,Windows 10,2025-04-21,Unreachable,IT,Surrey
+DEV-038,Windows 10,2025-07-12,Compliant,HR,Ottawa
+DEV-039,Windows 10,2025-05-16,Unreachable,Marketing,Vancouver
+DEV-040,Windows 11,2025-07-10,Compliant,Legal,Ottawa
+DEV-041,Windows 10,2025-05-26,At Risk,HR,Toronto
+DEV-042,Windows Server 2019,2025-07-17,Compliant,Marketing,Calgary
+DEV-043,Windows 11,2025-06-24,Compliant,Marketing,Toronto
+DEV-044,Windows Server 2022,2025-05-19,At Risk,Marketing,Vancouver
+DEV-045,Windows Server 2022,2025-06-03,At Risk,Finance,Calgary
+DEV-046,Windows 10,2025-05-19,At Risk,IT,Toronto
+DEV-047,Windows 10,2025-06-14,At Risk,Finance,Calgary
+DEV-048,Windows 11,2025-06-28,Compliant,Marketing,Ottawa
+DEV-049,Windows 11,2025-06-30,Compliant,HR,Toronto
+DEV-050,Windows Server 2022,2025-05-15,Unreachable,Finance,Toronto
+DEV-051,Windows 11,2025-06-30,Compliant,Finance,Surrey
+DEV-052,Windows 10,2025-05-30,At Risk,HR,Ottawa
+DEV-053,Windows 11,2025-07-06,Compliant,Legal,Ottawa
+DEV-054,Windows Server 2022,2025-05-20,At Risk,HR,Calgary
+DEV-055,Windows Server 2022,2025-06-18,Compliant,HR,Surrey
+DEV-056,Windows Server 2022,2025-05-13,Unreachable,IT,Surrey
+DEV-057,Windows 10,2025-04-29,Unreachable,Legal,Surrey
+DEV-058,Windows Server 2019,2025-07-05,Compliant,IT,Calgary
+DEV-059,Windows 11,2025-06-03,At Risk,IT,Surrey
+DEV-060,Windows Server 2019,2025-04-27,Unreachable,Operations,Surrey
+DEV-061,Windows Server 2019,2025-05-13,Unreachable,Operations,Surrey
+DEV-062,Windows 10,2025-05-24,At Risk,Finance,Surrey
+DEV-063,Windows Server 2019,2025-04-30,Unreachable,Operations,Surrey
+DEV-064,Windows Server 2019,2025-06-01,At Risk,Legal,Ottawa
+DEV-065,Windows 11,2025-05-25,At Risk,Marketing,Surrey
+DEV-066,Windows Server 2019,2025-07-01,Compliant,Marketing,Calgary
+DEV-067,Windows Server 2022,2025-04-23,Unreachable,Finance,Toronto
+DEV-068,Windows Server 2022,2025-05-10,Unreachable,Finance,Calgary
+DEV-069,Windows 11,2025-07-16,Compliant,Operations,Calgary
+DEV-070,Windows Server 2019,2025-05-03,Unreachable,Operations,Calgary
+DEV-071,Windows Server 2019,2025-07-14,Compliant,HR,Toronto
+DEV-072,Windows 10,2025-05-30,At Risk,Operations,Surrey
+DEV-073,Windows 10,2025-07-12,Compliant,IT,Toronto
+DEV-074,Windows Server 2019,2025-07-17,Compliant,IT,Ottawa
+DEV-075,Windows 10,2025-06-10,At Risk,Marketing,Calgary
+DEV-076,Windows Server 2022,2025-05-20,At Risk,Finance,Calgary
+DEV-077,Windows 10,2025-05-21,At Risk,Legal,Surrey
+DEV-078,Windows Server 2022,2025-06-23,Compliant,Legal,Toronto
+DEV-079,Windows Server 2019,2025-06-29,Compliant,Operations,Vancouver
+DEV-080,Windows 11,2025-06-22,Compliant,Marketing,Surrey
+DEV-081,Windows 10,2025-07-02,Compliant,Marketing,Ottawa
+DEV-082,Windows 11,2025-05-30,At Risk,IT,Ottawa
+DEV-083,Windows Server 2022,2025-05-02,Unreachable,HR,Surrey
+DEV-084,Windows 10,2025-05-07,Unreachable,Marketing,Calgary
+DEV-085,Windows Server 2022,2025-06-23,Compliant,Finance,Surrey
+DEV-086,Windows 10,2025-07-04,Compliant,Legal,Ottawa
+DEV-087,Windows 10,2025-04-18,Unreachable,Operations,Surrey
+DEV-088,Windows Server 2019,2025-04-24,Unreachable,HR,Toronto
+DEV-089,Windows 10,2025-06-13,At Risk,Finance,Surrey
+DEV-090,Windows 10,2025-07-02,Compliant,IT,Toronto
+DEV-091,Windows 10,2025-06-25,Compliant,IT,Surrey
+DEV-092,Windows 11,2025-07-10,Compliant,Finance,Calgary
+DEV-093,Windows Server 2019,2025-06-30,Compliant,HR,Surrey
+DEV-094,Windows 11,2025-05-23,At Risk,Legal,Surrey
+DEV-095,Windows Server 2022,2025-07-09,Compliant,Marketing,Calgary
+DEV-096,Windows Server 2019,2025-06-29,Compliant,HR,Surrey
+DEV-097,Windows Server 2019,2025-06-27,Compliant,Operations,Ottawa
+DEV-098,Windows 10,2025-04-27,Unreachable,Finance,Surrey
+DEV-099,Windows Server 2022,2025-06-02,At Risk,Marketing,Surrey
+DEV-100,Windows 11,2025-04-29,Unreachable,Operations,Calgary
+DEV-101,Windows Server 2019,2025-05-03,Unreachable,IT,Surrey
+DEV-102,Windows 11,2025-07-02,Compliant,Operations,Toronto
+DEV-103,Windows 11,2025-07-16,Compliant,HR,Calgary
+DEV-104,Windows Server 2022,2025-05-21,At Risk,Legal,Surrey
+DEV-105,Windows 10,2025-06-03,At Risk,Finance,Toronto
+DEV-106,Windows Server 2022,2025-04-21,Unreachable,IT,Ottawa
+DEV-107,Windows 11,2025-06-12,At Risk,Marketing,Toronto
+DEV-108,Windows 10,2025-06-27,Compliant,Operations,Calgary
+DEV-109,Windows 10,2025-06-04,At Risk,HR,Vancouver
+DEV-110,Windows 10,2025-07-06,Compliant,Marketing,Toronto
+DEV-111,Windows 10,2025-07-04,Compliant,Marketing,Calgary
+DEV-112,Windows Server 2022,2025-07-14,Compliant,Operations,Toronto
+DEV-113,Windows Server 2022,2025-05-04,Unreachable,IT,Toronto
+DEV-114,Windows Server 2019,2025-06-17,Compliant,HR,Vancouver
+DEV-115,Windows 11,2025-05-13,Unreachable,Marketing,Surrey
+DEV-116,Windows 11,2025-06-09,At Risk,Operations,Toronto
+DEV-117,Windows 11,2025-05-31,At Risk,Operations,Ottawa
+DEV-118,Windows Server 2022,2025-05-03,Unreachable,Finance,Calgary
+DEV-119,Windows Server 2019,2025-04-27,Unreachable,HR,Surrey
+DEV-120,Windows 11,2025-07-14,Compliant,Legal,Toronto
+DEV-121,Windows Server 2022,2025-06-20,Compliant,Marketing,Ottawa
+DEV-122,Windows Server 2022,2025-04-18,Unreachable,Finance,Vancouver
+DEV-123,Windows Server 2019,2025-04-25,Unreachable,Legal,Ottawa
+DEV-124,Windows Server 2019,2025-07-03,Compliant,Marketing,Toronto
+DEV-125,Windows Server 2019,2025-05-09,Unreachable,Marketing,Surrey
+DEV-126,Windows Server 2022,2025-06-14,At Risk,Operations,Calgary
+DEV-127,Windows Server 2022,2025-07-09,Compliant,Legal,Vancouver
+DEV-128,Windows 11,2025-07-03,Compliant,HR,Surrey
+DEV-129,Windows Server 2022,2025-05-19,At Risk,Finance,Toronto
+DEV-130,Windows 11,2025-04-28,Unreachable,Finance,Vancouver
+DEV-131,Windows 10,2025-06-25,Compliant,Legal,Vancouver
+DEV-132,Windows 11,2025-06-15,At Risk,HR,Ottawa
+DEV-133,Windows Server 2019,2025-05-08,Unreachable,Legal,Surrey
+DEV-134,Windows Server 2022,2025-06-18,Compliant,Legal,Ottawa
+DEV-135,Windows 10,2025-07-01,Compliant,Marketing,Vancouver
+DEV-136,Windows 11,2025-07-16,Compliant,Marketing,Ottawa
+DEV-137,Windows Server 2019,2025-04-26,Unreachable,IT,Calgary
+DEV-138,Windows Server 2022,2025-06-12,At Risk,Operations,Ottawa
+DEV-139,Windows 10,2025-05-22,At Risk,Operations,Calgary
+DEV-140,Windows 10,2025-07-04,Compliant,Operations,Surrey
+DEV-141,Windows Server 2022,2025-05-29,At Risk,Marketing,Surrey
+DEV-142,Windows Server 2019,2025-05-15,Unreachable,IT,Toronto
+DEV-143,Windows 11,2025-04-25,Unreachable,Legal,Toronto
+DEV-144,Windows Server 2022,2025-05-11,Unreachable,HR,Calgary
+DEV-145,Windows 10,2025-04-24,Unreachable,Marketing,Ottawa
+DEV-146,Windows 11,2025-07-12,Compliant,Finance,Calgary
+DEV-147,Windows Server 2022,2025-05-18,At Risk,Legal,Vancouver
+DEV-148,Windows 10,2025-05-01,Unreachable,Legal,Vancouver
+DEV-149,Windows 11,2025-04-19,Unreachable,Marketing,Toronto
+DEV-150,Windows 10,2025-06-04,At Risk,Finance,Calgary
+DEV-151,Windows Server 2019,2025-04-30,Unreachable,Operations,Toronto
+DEV-152,Windows Server 2019,2025-06-10,At Risk,Legal,Surrey
+DEV-153,Windows 10,2025-06-11,At Risk,Finance,Toronto
+DEV-154,Windows Server 2022,2025-06-19,Compliant,Operations,Toronto
+DEV-155,Windows 11,2025-07-01,Compliant,IT,Vancouver
+DEV-156,Windows Server 2019,2025-05-28,At Risk,Operations,Surrey
+DEV-157,Windows 11,2025-04-18,Unreachable,HR,Vancouver
+DEV-158,Windows Server 2022,2025-05-04,Unreachable,Finance,Ottawa
+DEV-159,Windows Server 2019,2025-05-31,At Risk,Marketing,Surrey
+DEV-160,Windows 11,2025-05-21,At Risk,HR,Surrey
+DEV-161,Windows Server 2019,2025-06-02,At Risk,Legal,Toronto
+DEV-162,Windows Server 2019,2025-05-04,Unreachable,IT,Surrey
+DEV-163,Windows Server 2022,2025-06-18,Compliant,HR,Calgary
+DEV-164,Windows Server 2019,2025-04-20,Unreachable,Finance,Toronto
+DEV-165,Windows Server 2019,2025-07-12,Compliant,Finance,Surrey
+DEV-166,Windows Server 2019,2025-06-04,At Risk,Legal,Surrey
+DEV-167,Windows Server 2019,2025-05-24,At Risk,IT,Ottawa
+DEV-168,Windows 11,2025-06-28,Compliant,Legal,Surrey
+DEV-169,Windows 10,2025-06-22,Compliant,HR,Ottawa
+DEV-170,Windows 11,2025-06-02,At Risk,HR,Calgary
+DEV-171,Windows 11,2025-05-27,At Risk,Operations,Ottawa
+DEV-172,Windows 10,2025-05-12,Unreachable,Operations,Vancouver
+DEV-173,Windows 10,2025-07-08,Compliant,IT,Toronto
+DEV-174,Windows 10,2025-06-09,At Risk,Finance,Vancouver
+DEV-175,Windows Server 2019,2025-05-30,At Risk,Operations,Vancouver
+DEV-176,Windows Server 2019,2025-06-15,At Risk,IT,Vancouver
+DEV-177,Windows Server 2019,2025-05-06,Unreachable,Legal,Calgary
+DEV-178,Windows 10,2025-06-06,At Risk,Finance,Calgary
+DEV-179,Windows 10,2025-05-21,At Risk,IT,Toronto
+DEV-180,Windows Server 2022,2025-06-05,At Risk,HR,Toronto
+DEV-181,Windows 10,2025-06-19,Compliant,HR,Ottawa
+DEV-182,Windows Server 2022,2025-05-25,At Risk,Operations,Surrey
+DEV-183,Windows Server 2022,2025-04-27,Unreachable,Finance,Vancouver
+DEV-184,Windows Server 2022,2025-06-12,At Risk,Operations,Surrey
+DEV-185,Windows 10,2025-07-11,Compliant,Marketing,Surrey
+DEV-186,Windows Server 2019,2025-05-05,Unreachable,Legal,Surrey
+DEV-187,Windows Server 2022,2025-05-23,At Risk,Marketing,Ottawa
+DEV-188,Windows 11,2025-04-27,Unreachable,Operations,Ottawa
+DEV-189,Windows Server 2022,2025-04-26,Unreachable,Operations,Toronto
+DEV-190,Windows Server 2022,2025-04-21,Unreachable,IT,Surrey
+DEV-191,Windows Server 2019,2025-06-04,At Risk,Operations,Ottawa
+DEV-192,Windows 11,2025-05-10,Unreachable,Operations,Surrey
+DEV-193,Windows Server 2019,2025-06-08,At Risk,Marketing,Vancouver
+DEV-194,Windows 11,2025-05-23,At Risk,Finance,Calgary
+DEV-195,Windows Server 2019,2025-06-14,At Risk,HR,Vancouver
+DEV-196,Windows 10,2025-06-01,At Risk,Finance,Ottawa
+DEV-197,Windows Server 2022,2025-06-06,At Risk,IT,Vancouver
+DEV-198,Windows Server 2019,2025-07-06,Compliant,Operations,Vancouver
+DEV-199,Windows 10,2025-05-24,At Risk,Legal,Vancouver
+DEV-200,Windows Server 2022,2025-05-29,At Risk,Marketing,Vancouver
+DEV-201,Windows 10,2025-06-11,At Risk,Legal,Surrey
+DEV-202,Windows Server 2022,2025-06-05,At Risk,Marketing,Ottawa
+DEV-203,Windows Server 2019,2025-06-30,Compliant,Finance,Calgary
+DEV-204,Windows 10,2025-06-29,Compliant,Marketing,Surrey
+DEV-205,Windows 10,2025-06-14,At Risk,Operations,Surrey
+DEV-206,Windows 10,2025-05-18,At Risk,Legal,Calgary
+DEV-207,Windows Server 2022,2025-06-18,Compliant,Operations,Calgary
+DEV-208,Windows Server 2022,2025-05-28,At Risk,Marketing,Vancouver
+DEV-209,Windows 10,2025-06-14,At Risk,Finance,Surrey
+DEV-210,Windows Server 2019,2025-06-07,At Risk,Operations,Surrey
+DEV-211,Windows 11,2025-06-23,Compliant,Finance,Calgary
+DEV-212,Windows Server 2019,2025-06-22,Compliant,IT,Toronto
+DEV-213,Windows Server 2019,2025-07-01,Compliant,Legal,Vancouver
+DEV-214,Windows Server 2022,2025-06-14,At Risk,Operations,Calgary
+DEV-215,Windows 11,2025-05-27,At Risk,Marketing,Vancouver
+DEV-216,Windows Server 2019,2025-06-20,Compliant,Finance,Toronto
+DEV-217,Windows Server 2022,2025-07-07,Compliant,HR,Toronto
+DEV-218,Windows Server 2022,2025-06-15,At Risk,IT,Surrey
+DEV-219,Windows 11,2025-06-14,At Risk,HR,Toronto
+DEV-220,Windows 10,2025-04-19,Unreachable,Finance,Toronto
+DEV-221,Windows Server 2022,2025-05-16,Unreachable,Legal,Vancouver
+DEV-222,Windows Server 2019,2025-06-23,Compliant,IT,Toronto
+DEV-223,Windows 11,2025-06-18,Compliant,Operations,Calgary
+DEV-224,Windows Server 2022,2025-07-07,Compliant,IT,Ottawa
+DEV-225,Windows 11,2025-05-03,Unreachable,Operations,Toronto
+DEV-226,Windows 10,2025-04-22,Unreachable,Marketing,Vancouver
+DEV-227,Windows 11,2025-06-05,At Risk,HR,Toronto
+DEV-228,Windows 11,2025-05-30,At Risk,IT,Calgary
+DEV-229,Windows Server 2022,2025-04-24,Unreachable,Legal,Vancouver
+DEV-230,Windows Server 2022,2025-05-07,Unreachable,Marketing,Calgary
+DEV-231,Windows 11,2025-06-11,At Risk,Operations,Calgary
+DEV-232,Windows Server 2019,2025-04-27,Unreachable,Finance,Calgary
+DEV-233,Windows 10,2025-05-01,Unreachable,Marketing,Ottawa
+DEV-234,Windows Server 2022,2025-05-07,Unreachable,Finance,Toronto
+DEV-235,Windows 10,2025-05-01,Unreachable,Operations,Vancouver
+DEV-236,Windows 11,2025-06-03,At Risk,Marketing,Calgary
+DEV-237,Windows Server 2019,2025-05-24,At Risk,Finance,Vancouver
+DEV-238,Windows Server 2022,2025-06-17,Compliant,Marketing,Vancouver
+DEV-239,Windows 10,2025-04-28,Unreachable,IT,Surrey
+DEV-240,Windows Server 2019,2025-06-30,Compliant,HR,Ottawa
+DEV-241,Windows Server 2019,2025-06-29,Compliant,Marketing,Toronto
+DEV-242,Windows Server 2022,2025-05-12,Unreachable,Finance,Toronto
+DEV-243,Windows 11,2025-05-05,Unreachable,Marketing,Toronto
+DEV-244,Windows Server 2019,2025-07-12,Compliant,IT,Toronto
+DEV-245,Windows Server 2022,2025-06-27,Compliant,IT,Ottawa
+DEV-246,Windows 10,2025-07-17,Compliant,IT,Calgary
+DEV-247,Windows 10,2025-06-26,Compliant,Finance,Surrey
+DEV-248,Windows Server 2019,2025-07-11,Compliant,Finance,Surrey
+DEV-249,Windows 11,2025-04-30,Unreachable,Finance,Vancouver
+DEV-250,Windows 11,2025-06-04,At Risk,Finance,Vancouver
